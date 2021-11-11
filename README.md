@@ -1,1 +1,1 @@
-info about this project
+This project contains a series of cheatsheets for programming languages / concepts here.
