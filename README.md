@@ -1,8 +1,8 @@
-#README
+# README
 
 This project contains a series of cheatsheets for programming languages / concepts that I encounter.
 
-##Current Plans:
+## Current Plans:
 - GitHub Cheatsheet
 - Actor Critic in Tensorflow
 - What is React?
