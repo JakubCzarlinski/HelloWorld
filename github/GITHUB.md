@@ -21,7 +21,7 @@ Repos are where all of your code and resources are stored.
 
 Create a github repo in the current directory:
 ```
-$ gh repo create
+$ gh repo create [name]
 ```
 
 Track a new file in the repo:
